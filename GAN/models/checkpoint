@@ -1,0 +1,2 @@
+model_checkpoint_path: "300_epoch_200d_entropy_model.ckpt"
+all_model_checkpoint_paths: "300_epoch_200d_entropy_model.ckpt"
